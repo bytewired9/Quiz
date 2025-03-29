@@ -1,0 +1,695 @@
+[
+  {
+    "question": "What did Progressives think about the role of scientific method and experts to reform society?",
+    "answers": [
+      {
+        "text": "Experts using scientific methods could be used to make government less corrupt and more efficient to address societal problems",
+        "correct": true
+      },
+      {
+        "text": "They argued that only religious authorities, not experts, should reform society",
+        "correct": false
+      },
+      {
+        "text": "They believed that intuition and traditional wisdom were better than scientific methods for reform",
+        "correct": false
+      },
+      {
+        "text": "They maintained that artistic expression was the key to solving social issues",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What did most Progressives think could be used as a means to reform social problems?",
+    "answers": [
+      {
+        "text": "They believed that government action guided by scientific principles and expert administration could effectively solve social issues",
+        "correct": true
+      },
+      {
+        "text": "They argued that free-market forces alone would automatically correct social problems",
+        "correct": false
+      },
+      {
+        "text": "They thought that individual charity and private philanthropy were the sole solutions",
+        "correct": false
+      },
+      {
+        "text": "They maintained that traditional institutions like the church should handle all reforms",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Who were the Muckrakers?",
+    "answers": [
+      {
+        "text": "Social workers who organized community relief programs",
+        "correct": false
+      },
+      {
+        "text": "Political leaders who enacted progressive legislation",
+        "correct": false
+      },
+      {
+        "text": "Corporate executives who reformed business practices",
+        "correct": false
+      },
+      {
+        "text": "Journalists who exposed societal problems, such as Ida Tarbell, Upton Sinclair, Lincoln Steffens, and Jacob Riis",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What was the role of the U.S.S. Maine in the Spanish\u2013American War?",
+    "answers": [
+      {
+        "text": "It served as a diplomatic vessel sent to negotiate peace with Spain",
+        "correct": false
+      },
+      {
+        "text": "It was a Spanish warship that defected to the U.S.",
+        "correct": false
+      },
+      {
+        "text": "It was sent to protect Americans in Cuba by occupying Havana harbor; its mysterious explosion in February 1898 helped spark the war with Spain",
+        "correct": true
+      },
+      {
+        "text": "It was a passenger liner used to transport troops to Cuba",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What was the role of the de Lome Letter in the Spanish\u2013American War?",
+    "answers": [
+      {
+        "text": "It was a secret message proposing an alliance between the U.S. and Spain",
+        "correct": false
+      },
+      {
+        "text": "It was a diplomatic note that ultimately resolved tensions between the two nations",
+        "correct": false
+      },
+      {
+        "text": "It was an insulting letter by the Spanish ambassador about President McKinley that, when publicized, stirred outrage and helped lead to war with Spain",
+        "correct": true
+      },
+      {
+        "text": "It was a letter from President McKinley praising Spanish policies",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Outline the following constitutional amendments and the year ratified during this period: 16th, 17th, 18th, 19th.",
+    "answers": [
+      {
+        "text": "16th (1913) \u2013 Direct election of senators; 17th (1913) \u2013 Personal income tax; 18th (1919) \u2013 Universal male suffrage; 19th (1920) \u2013 Prohibition of alcohol",
+        "correct": false
+      },
+      {
+        "text": "16th (1913) \u2013 Women's suffrage; 17th (1913) \u2013 Prohibition of alcohol; 18th (1919) \u2013 Direct election of senators; 19th (1920) \u2013 Income tax",
+        "correct": false
+      },
+      {
+        "text": "16th (1913) \u2013 Personal income tax; 17th (1913) \u2013 Direct election of U.S. senators; 18th (1919) \u2013 Prohibition of alcohol; 19th (1920) \u2013 Universal female suffrage",
+        "correct": true
+      },
+      {
+        "text": "16th (1913) \u2013 Abolished slavery; 17th (1913) \u2013 Established a national bank; 18th (1919) \u2013 Guaranteed free speech; 19th (1920) \u2013 Allowed states to set their own taxes",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What former Spanish territory retained independence after the Spanish\u2013American War?",
+    "answers": [
+      {
+        "text": "The Philippines",
+        "correct": false
+      },
+      {
+        "text": "Puerto Rico",
+        "correct": false
+      },
+      {
+        "text": "Cuba",
+        "correct": true
+      },
+      {
+        "text": "Guam",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What was the FORAKER Act?",
+    "answers": [
+      {
+        "text": "It allowed Puerto Rico to elect its own president",
+        "correct": false
+      },
+      {
+        "text": "It set the policy for governing Puerto Rico after the Spanish\u2013American War",
+        "correct": true
+      },
+      {
+        "text": "It granted statehood to Puerto Rico",
+        "correct": false
+      },
+      {
+        "text": "It declared Puerto Rico an independent nation",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What was the PLATT AMENDMENT?",
+    "answers": [
+      {
+        "text": "It allowed Cuba to annex Puerto Rico",
+        "correct": false
+      },
+      {
+        "text": "It granted Cuba complete independence without U.S. interference",
+        "correct": false
+      },
+      {
+        "text": "It prohibited any U.S. involvement in Cuban affairs",
+        "correct": false
+      },
+      {
+        "text": "It established Cuba\u2019s status by outlining conditions for U.S. intervention and Cuban governance",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What was the OPEN DOOR POLICY?",
+    "answers": [
+      {
+        "text": "An agreement (ratified in 1899\u20131900) recognizing China's sovereignty and the right of all nations to trade freely there",
+        "correct": true
+      },
+      {
+        "text": "A policy that established exclusive trading rights for European nations in China",
+        "correct": false
+      },
+      {
+        "text": "A policy that closed China to all foreign trade",
+        "correct": false
+      },
+      {
+        "text": "A policy that allowed only the U.S. to trade with China",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What was Dollar Diplomacy?",
+    "answers": [
+      {
+        "text": "A strategy that used military force to collect debts in Latin America",
+        "correct": false
+      },
+      {
+        "text": "President Taft's policy to achieve U.S. foreign policy goals through financial aid and investment rather than military force in Latin America and China",
+        "correct": true
+      },
+      {
+        "text": "A plan to standardize U.S. currency with European currencies",
+        "correct": false
+      },
+      {
+        "text": "An economic policy to reduce U.S. exports in favor of imports",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What was YELLOW JOURNALISM? What role did it play in the Spanish\u2013American War?",
+    "answers": [
+      {
+        "text": "A method of reporting that focused solely on local news without national implications",
+        "correct": false
+      },
+      {
+        "text": "Sensationalized newspaper coverage with lurid headlines that swayed U.S. public opinion toward war with Spain",
+        "correct": true
+      },
+      {
+        "text": "A style of journalism that avoided mentioning war atrocities",
+        "correct": false
+      },
+      {
+        "text": "Objective and balanced reporting that clarified the facts of the war",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Define the following Progressive Era political reforms: RECALL, REFERENDUM, INITIATIVE, DIRECT PRIMARY.",
+    "answers": [
+      {
+        "text": "RECALL: Automatic removal of elected officials every four years; REFERENDUM: A vote to confirm judicial appointments; INITIATIVE: A process for issuing executive orders; DIRECT PRIMARY: A system where only party elites choose candidates",
+        "correct": false
+      },
+      {
+        "text": "RECALL: Special election to remove a politician; REFERENDUM: Law submitted to the public for a vote; INITIATIVE: Proposal for a law by the public; DIRECT PRIMARY: Selection of candidates by party members",
+        "correct": true
+      },
+      {
+        "text": "RECALL: A process to re-elect a politician; REFERENDUM: A mandatory vote on tax increases; INITIATIVE: A method for Congress to pass laws without a vote; DIRECT PRIMARY: Appointments of candidates by party leaders",
+        "correct": false
+      },
+      {
+        "text": "RECALL: The right to recall federal judges; REFERENDUM: A vote on international treaties; INITIATIVE: A way to propose constitutional amendments; DIRECT PRIMARY: A primary election where all voters, regardless of party, choose candidates",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What was Frederick Jackson Turner\u2019s Frontier Thesis?",
+    "answers": [
+      {
+        "text": "The eastern seaboard, not the frontier, shaped American character",
+        "correct": false
+      },
+      {
+        "text": "Industrialization alone was responsible for American success",
+        "correct": false
+      },
+      {
+        "text": "The frontier had no significant impact on American development",
+        "correct": false
+      },
+      {
+        "text": "The United States became a resilient and dominant nation due to a 300\u2010year struggle against its western frontier",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Outline the ideas contributing to imperialism from these intellectuals: John Fiske, Josiah Strong, Frederick Jackson Turner, and Alfred Thayer Mahan.",
+    "answers": [
+      {
+        "text": "They argued that economic self-sufficiency was the future, not territorial expansion",
+        "correct": false
+      },
+      {
+        "text": "They maintained that colonial expansion should be abandoned in favor of strict diplomatic neutrality",
+        "correct": false
+      },
+      {
+        "text": "They all believed isolationism was ideal and opposed any overseas expansion",
+        "correct": false
+      },
+      {
+        "text": "Fiske believed in the U.S.'s natural superiority; Strong argued the U.S. had a duty to civilize nonindustrial nations; Turner promoted expansion via the Frontier Thesis; Mahan emphasized the need for maritime power and trade",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What two yellow journalists contributed to U.S. entry into the Spanish\u2013American War?",
+    "answers": [
+      {
+        "text": "William Randolph Hearst and Ida Tarbell",
+        "correct": false
+      },
+      {
+        "text": "William Randolph Hearst and Joseph Pulitzer",
+        "correct": true
+      },
+      {
+        "text": "Joseph Pulitzer and Nellie Bly",
+        "correct": false
+      },
+      {
+        "text": "Mark Twain and Ambrose Bierce",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "List the three Progressive Era presidents.",
+    "answers": [
+      {
+        "text": "Theodore Roosevelt, William Howard Taft, and Woodrow Wilson",
+        "correct": true
+      },
+      {
+        "text": "Woodrow Wilson, Franklin D. Roosevelt, and Harry S. Truman",
+        "correct": false
+      },
+      {
+        "text": "Theodore Roosevelt, Herbert Hoover, and Franklin D. Roosevelt",
+        "correct": false
+      },
+      {
+        "text": "Abraham Lincoln, Ulysses S. Grant, and Franklin D. Roosevelt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What reforms were championed by muckrakers and reformers like Ida Tarbell, Lincoln Steffens, Upton Sinclair, Jacob Riis, and Robert LaFollette?",
+    "answers": [
+      {
+        "text": "Tarbell exposed corporate trusts (Standard Oil); Steffens revealed political corruption; Sinclair uncovered unsanitary conditions in the meatpacking industry; Riis documented urban poverty; LaFollette pioneered progressive reforms in Wisconsin",
+        "correct": true
+      },
+      {
+        "text": "They all focused solely on promoting agricultural advancements",
+        "correct": false
+      },
+      {
+        "text": "They exclusively advocated for the interests of big business",
+        "correct": false
+      },
+      {
+        "text": "They primarily campaigned for increased military spending",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "How did Frederick Winslow Taylor improve efficiency in American factories?",
+    "answers": [
+      {
+        "text": "By increasing the number of unstructured breaks during shifts",
+        "correct": false
+      },
+      {
+        "text": "By drastically reducing worker wages",
+        "correct": false
+      },
+      {
+        "text": "By hiring extra managers to micromanage redundant tasks",
+        "correct": false
+      },
+      {
+        "text": "By conducting time and motion studies to streamline production processes",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What was the Boxer Rebellion?",
+    "answers": [
+      {
+        "text": "An uprising by a Chinese secret society aimed at overthrowing foreign influence and restoring the monarchy, with U.S. intervention in 1900 helping to suppress it",
+        "correct": true
+      },
+      {
+        "text": "A rebellion led by Chinese intellectuals demanding democratic reforms",
+        "correct": false
+      },
+      {
+        "text": "A diplomatic negotiation between China and Japan over territorial disputes",
+        "correct": false
+      },
+      {
+        "text": "A peaceful protest by Chinese laborers for better working conditions",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is NATIVISM?",
+    "answers": [
+      {
+        "text": "A movement to integrate foreign customs into national traditions",
+        "correct": false
+      },
+      {
+        "text": "A conservative philosophy aimed at preserving traditional values by limiting outside influences through immigration restrictions",
+        "correct": true
+      },
+      {
+        "text": "An ideology that promotes cultural diversity and open borders",
+        "correct": false
+      },
+      {
+        "text": "A policy that encourages international immigration to boost the workforce",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What was the Roosevelt Corollary?",
+    "answers": [
+      {
+        "text": "A foreign policy declaring that the U.S. reserved the right to intervene in Latin American affairs to prevent European interference",
+        "correct": true
+      },
+      {
+        "text": "An economic program designed to support European allies",
+        "correct": false
+      },
+      {
+        "text": "A policy restricting U.S. military involvement abroad",
+        "correct": false
+      },
+      {
+        "text": "A domestic policy aimed at expanding national parks",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What was the SQUARE DEAL?",
+    "answers": [
+      {
+        "text": "An economic policy designed to lower taxes for the wealthy",
+        "correct": false
+      },
+      {
+        "text": "The domestic policy of Theodore Roosevelt focusing on natural resource conservation and protections for working-class Americans",
+        "correct": true
+      },
+      {
+        "text": "A military strategy for expanding American territories",
+        "correct": false
+      },
+      {
+        "text": "A trade agreement between the U.S. and European nations",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What two major combatants were excluded from treaty negotiations at Versailles?",
+    "answers": [
+      {
+        "text": "Japan and Austria-Hungary",
+        "correct": false
+      },
+      {
+        "text": "The United States and France",
+        "correct": false
+      },
+      {
+        "text": "Russia and Germany",
+        "correct": true
+      },
+      {
+        "text": "Britain and Italy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Who/what were the BIG FOUR?",
+    "answers": [
+      {
+        "text": "The four largest empires in Europe at the time",
+        "correct": false
+      },
+      {
+        "text": "A group of military generals from Russia, Germany, Japan, and Austria-Hungary",
+        "correct": false
+      },
+      {
+        "text": "The heads of the Axis Powers during World War I",
+        "correct": false
+      },
+      {
+        "text": "The leaders of the major Allied nations: David Lloyd George (Britain), Georges Clemenceau (France), Woodrow Wilson (USA), and Vittorio Orlando (Italy)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What FOUR nations/empires lost monarchies by the end of WWI?",
+    "answers": [
+      {
+        "text": "Britain, France, Italy, and Japan",
+        "correct": false
+      },
+      {
+        "text": "Germany, Austria-Hungary, Russia, and the Ottoman Empire",
+        "correct": true
+      },
+      {
+        "text": "Russia, China, India, and Brazil",
+        "correct": false
+      },
+      {
+        "text": "Germany, Italy, Spain, and Portugal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What was the Zimmerman Telegram?",
+    "answers": [
+      {
+        "text": "A message from Mexico to Germany asking for military support",
+        "correct": false
+      },
+      {
+        "text": "A coded message sent by Germany to Mexico offering aid to help regain lost territory if Mexico attacked the U.S., which stirred U.S. sentiment toward war",
+        "correct": true
+      },
+      {
+        "text": "A diplomatic note from Britain to the U.S. requesting peace negotiations",
+        "correct": false
+      },
+      {
+        "text": "A telegram from the U.S. to Germany proposing an alliance",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "How did Social Darwinists justify colonial expansion?",
+    "answers": [
+      {
+        "text": "They maintained that cultural exchange, not conquest, was the key to progress",
+        "correct": false
+      },
+      {
+        "text": "They believed that all nations were equal and that colonial expansion was unjustifiable",
+        "correct": false
+      },
+      {
+        "text": "They argued that natural competition meant stronger industrial nations were destined to expand at the expense of weaker ones ('survival of the fittest')",
+        "correct": true
+      },
+      {
+        "text": "They argued that only peaceful diplomacy should be used to expand national influence",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What TWO major nations changed their alliance status during WWI?",
+    "answers": [
+      {
+        "text": "France joined the Triple Alliance and Germany joined the Triple Entente",
+        "correct": false
+      },
+      {
+        "text": "The United States and Britain swapped alliances mid-war",
+        "correct": false
+      },
+      {
+        "text": "Austria-Hungary and Germany formed a new alliance with the U.S.",
+        "correct": false
+      },
+      {
+        "text": "Italy joined the Triple Entente in 1915, and Russia exited the Triple Entente in 1917 following the Bolshevik Revolution",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Why was DAYLIGHT SAVINGS TIME implemented during WWI?",
+    "answers": [
+      {
+        "text": "To save energy during the war",
+        "correct": true
+      },
+      {
+        "text": "To provide more leisure time for workers",
+        "correct": false
+      },
+      {
+        "text": "To allow soldiers more daylight for training",
+        "correct": false
+      },
+      {
+        "text": "To synchronize international trade schedules",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Why did the U.S. fail to ratify the Treaty of Versailles?",
+    "answers": [
+      {
+        "text": "Because it required the U.S. to cede territory to European nations",
+        "correct": false
+      },
+      {
+        "text": "Because there was fear that joining the League of Nations would entangle the U.S. in future conflicts through binding alliances",
+        "correct": true
+      },
+      {
+        "text": "Because the treaty imposed heavy war reparations on the U.S.",
+        "correct": false
+      },
+      {
+        "text": "Because it eliminated the Senate's power over treaties",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What was the Progressive Movement?",
+    "answers": [
+      {
+        "text": "A grassroots effort by mostly middle- and upper-class Americans, independent of any single political party, aimed at addressing societal problems through expert-led government reforms",
+        "correct": true
+      },
+      {
+        "text": "A movement focused solely on expanding the U.S. military",
+        "correct": false
+      },
+      {
+        "text": "A movement that sought to return the U.S. to monarchical rule",
+        "correct": false
+      },
+      {
+        "text": "A campaign to strengthen political machines and limit government regulation",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What was the Pendleton Civil Service Act?",
+    "answers": [
+      {
+        "text": "A statute that allowed political parties to control government jobs",
+        "correct": false
+      },
+      {
+        "text": "An 1883 law that established uniform, merit-based requirements for federal civil service jobs",
+        "correct": true
+      },
+      {
+        "text": "A law requiring all federal employees to be elected by popular vote",
+        "correct": false
+      },
+      {
+        "text": "A law mandating military service as a prerequisite for federal employment",
+        "correct": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz Game - Host</title>
+    <link rel="stylesheet" href="lobby.css">
+    <script src="/socket.io/socket.io.js"></script>
+</head>
+<body>
+    <div id="header">
+        <h1 id="ip">ip</h1>
+        <div id="gameControls">
+            <span id="playerCount">Players: 0</span>
+            <button type="button" id="startGame">Start Game</button>
+        </div>
+    </div>
+    <ul id="playerList"></ul>
+    <script src="host.js"></script>
+</body>
+</html>

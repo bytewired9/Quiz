@@ -1,0 +1,87 @@
+#container, #progress-container, #win-container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Styles for the entire body to have a soft blue background */
+body {
+  background-color: #e0f2f1; /* Soft blue background */
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column; /* Stack elements vertically */
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif; /* Optional: Set a default font */
+}
+
+/* Styles for the wait-screen box */
+.wait-screen {
+  background-color: white; /* White background for the box */
+  padding: 20px;
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Small shadow */
+  text-align: center;
+  max-width: 400px; /* Maximum width of the box */
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Additional styling for headings and paragraphs inside the wait-screen */
+.wait-screen h2,
+.wait-screen p {
+  margin: 10px 0;
+}
+
+/* Styles for the join form */
+#joinForm {
+  background-color: white; /* White background for the form */
+  padding: 20px;
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Small shadow */
+  text-align: center;
+  max-width: 300px; /* Maximum width of the form */
+  width: 100%;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin-bottom: 20px; /* Add space below the title */
+}
+
+/* Styling input and button elements */
+
+
+#joinForm input,
+#joinForm button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px; /* Slightly rounded corners for input and button */
+  box-sizing: border-box;
+}
+
+#joinForm button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#joinForm button:hover {
+  background-color: #45a049;
+}
+
+/* Styling for status messages */
+#status {
+  margin-top: 15px;
+  text-align: center;
+}

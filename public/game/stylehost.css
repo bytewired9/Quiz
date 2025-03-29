@@ -1,0 +1,122 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.progress-container {
+    background-color: #eee;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 4px;
+    width: calc(100% - 40px);
+    box-sizing: border-box;
+    position: relative;
+}
+
+.progress-bar {
+    background-color: #4CAF50;
+    border-radius: 8px;
+    height: 30px;
+    width: 0%;
+    transition: width 0.5s ease-in-out;
+    position: relative;
+}
+
+.player-name {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+    font-weight: bold;
+    color: #fff; /* White text color for contrast */
+    text-align: center;
+    z-index: 2;
+    text-shadow:
+        0px 1px 0px #000,
+        1px 0px 0px #000,
+        1px 1px 0px #000,
+        1px -1px 0px #000,
+        -1px 1px 0px #000,
+        -1px 0px 0px #000,
+        -1px -1px 0px #000,
+        0px -1px 0px #000; /* More refined text outline */
+}
+
+.win-container {
+    background-color: #ffff; /* Green background */
+    color: white;
+    width: 40%;
+    height: 40%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.win-container {
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    text-align: center;
+    padding: 40px; /* Increased padding for a larger box */
+    border-radius: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 60%; /* Set a relative width */
+    max-width: 700px; /* Maximum width to maintain aesthetics on larger screens */
+}
+
+.win-message {
+    margin-bottom: 30px; /* Increased spacing */
+    font-size: 2em; /* Larger text size for the message */
+}
+
+.return-button {
+    display: inline-block;
+    background-color: #f8f8f8;
+    color: #333;
+    padding: 15px 30px; /* Increased padding for a larger button */
+    border: none;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2em; /* Larger font size for the button */
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.return-button:hover {
+    background-color: #e7e7e7;
+    color: #222;
+}
+.runner-ups {
+    color: white;
+    margin-bottom: 20px;
+    font-size: 1em;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    .progress-container {
+        width: calc(100% - 20px);
+    }
+}
